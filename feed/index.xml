@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Açaí &#8211; Delivery</title>
-	<atom:link href="http://carlosheds.github.io/acaidelivery/feed/" rel="self" type="application/rss+xml" />
-	<link>http://carlosheds.github.io/acaidelivery</link>
+	<atom:link href="https://carlosheds.github.io/acaidelivery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://carlosheds.github.io/acaidelivery</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 22 Apr 2021 22:44:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Apr 2021 22:29:54 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
